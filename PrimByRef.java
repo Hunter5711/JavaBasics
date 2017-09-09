@@ -1,6 +1,6 @@
 
 /**  @kumar */
-// How to pass Primitive Data Types in Java Usinig Reference .
+// How to pass Primitive Data Types in Java Using Reference .
 public class PrimByRef{
 
 public static void increment(int[] array, int amount)
